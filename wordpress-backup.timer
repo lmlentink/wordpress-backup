@@ -1,0 +1,12 @@
+# /etc/systemd/system/wordpress-backup.timer 
+[Unit]
+Description=Wordpress backup job
+
+[Timer]
+# To add a time of your choosing here, please refer to systemd.time manual page for the correct format
+OnCalendar=daily
+Unit=wordpress-backup.service
+
+[Install]
+WantedBy=basic.target
+

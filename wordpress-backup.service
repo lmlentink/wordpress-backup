@@ -1,0 +1,14 @@
+#/etc/systemd/system/wordpress-backup.service  
+
+[Unit]
+Description=Wordpress backup
+Wants=wordpress-backup.timer
+
+[Service]
+Type=oneshot
+Nice=19
+ExecStart=/bin/bash /root/wordpress-backup/backup.sh 1>/dev/null
+
+[Install]
+WantedBy=basic.target
+
