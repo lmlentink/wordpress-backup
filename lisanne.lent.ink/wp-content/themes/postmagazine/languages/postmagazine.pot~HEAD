@@ -1,0 +1,1739 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: PostMagazine\n"
+"POT-Creation-Date: 2018-04-13 13:51-0700\n"
+"PO-Revision-Date: 2018-03-18 19:23-0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:17
+msgid "Error 404"
+msgstr ""
+
+#: 404.php:23
+msgid ""
+"It seems like you have tried to open a page that doesn't exist. It could "
+"have been deleted, moved, or it never existed at all. You are welcome to "
+"search for what you are looking for with the form below."
+msgstr ""
+
+#. translators: %s: is the author name
+#: author-bio.php:22
+#, php-format
+msgid "Read articles by %s"
+msgstr ""
+
+#: comments.php:19
+msgid "Reader Comments"
+msgstr ""
+
+#: comments.php:45
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:53
+msgid "Submit Comment"
+msgstr ""
+
+#: comments.php:54
+msgid "Write a Comment"
+msgstr ""
+
+#: comments.php:58
+msgid "* Message"
+msgstr ""
+
+#: comments.php:63
+msgid "* Name)"
+msgstr ""
+
+#: comments.php:67
+msgid "* Email"
+msgstr ""
+
+#: comments.php:71
+msgid "Website"
+msgstr ""
+
+#: footer.php:27
+msgid "Copyright &copy;"
+msgstr ""
+
+#: footer.php:28
+msgid "Y"
+msgstr ""
+
+#: footer.php:29
+msgid "All rights reserved."
+msgstr ""
+
+#: functions.php:84
+msgid "Primary"
+msgstr ""
+
+#: functions.php:85 inc/sidebars.php:182
+msgid "Footer"
+msgstr ""
+
+#: functions.php:86
+msgid "Social"
+msgstr ""
+
+#: functions.php:159
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:164
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr ""
+
+#: header.php:23
+msgid "Skip to content"
+msgstr ""
+
+#: image.php:44
+msgid "Previous Image"
+msgstr ""
+
+#: image.php:45
+msgid "Next Image"
+msgstr ""
+
+#: inc/customizer.php:35 inc/theme-info/postmagazine-info.php:120
+msgid "PostMagazine Pro"
+msgstr ""
+
+#: inc/customizer.php:36
+msgid ""
+"Opt in for the pro version of PostMagazine and enjoy many additional "
+"features that will add more options. Here is a sample of what you will get:"
+msgstr ""
+
+#: inc/customizer.php:37
+msgid "Pro Features:"
+msgstr ""
+
+#: inc/customizer.php:39
+msgid "&bull; 14 Blog Styles"
+msgstr ""
+
+#: inc/customizer.php:40
+msgid "&bull; 31 Sidebar Positions"
+msgstr ""
+
+#: inc/customizer.php:41
+msgid "&bull; 4 Header Styles"
+msgstr ""
+
+#: inc/customizer.php:42
+msgid "&bull; 5 Page Templates"
+msgstr ""
+
+#: inc/customizer.php:43
+msgid "&bull; Special Featured Sticky Post"
+msgstr ""
+
+#: inc/customizer.php:44
+msgid "&bull; Thumbnail Creation for the Blogs"
+msgstr ""
+
+#: inc/customizer.php:45
+msgid "&bull; Post Formats"
+msgstr ""
+
+#: inc/customizer.php:46
+msgid "&bull; Promo Image Widget"
+msgstr ""
+
+#: inc/customizer.php:47
+msgid "&bull; Advertising Banner Widgets"
+msgstr ""
+
+#: inc/customizer.php:48
+msgid "&bull; Custom Blog Title &amp; Intro"
+msgstr ""
+
+#: inc/customizer.php:49
+msgid "&bull; Add More Google Fonts"
+msgstr ""
+
+#: inc/customizer.php:50
+msgid "&bull; Typography Options"
+msgstr ""
+
+#: inc/customizer.php:51
+msgid "&bull; Custom Archive Titles"
+msgstr ""
+
+#: inc/customizer.php:52
+msgid "&bull; Page Builder Ready"
+msgstr ""
+
+#: inc/customizer.php:55
+msgid "Get the Pro"
+msgstr ""
+
+#: inc/customizer.php:97
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: inc/customizer.php:107
+msgid "Get The Pro Version:"
+msgstr ""
+
+#: inc/customizer.php:114 inc/theme-info/postmagazine-info.php:252
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer.php:125
+msgid "Boxed Layout"
+msgstr ""
+
+#: inc/customizer.php:128
+msgid "Full Width"
+msgstr ""
+
+#: inc/customizer.php:129
+msgid "Boxed 1800px Width"
+msgstr ""
+
+#: inc/customizer.php:130
+msgid "Boxed 1600px Width"
+msgstr ""
+
+#: inc/customizer.php:131
+msgid "Boxed 1400px Width"
+msgstr ""
+
+#: inc/customizer.php:141
+msgid "Blog Layout"
+msgstr ""
+
+#: inc/customizer.php:144
+msgid "Default With Right Sidebar"
+msgstr ""
+
+#: inc/customizer.php:145
+msgid "Default With Left Sidebar"
+msgstr ""
+
+#: inc/customizer.php:146
+msgid "List With No Sidebar"
+msgstr ""
+
+#: inc/customizer.php:147
+msgid "List With Right Sidebar"
+msgstr ""
+
+#: inc/customizer.php:148
+msgid "List With Left Sidebar"
+msgstr ""
+
+#: inc/customizer.php:158
+msgid "Full Post Style"
+msgstr ""
+
+#: inc/customizer.php:161
+msgid "Single With Right Sidebar"
+msgstr ""
+
+#: inc/customizer.php:162
+msgid "Single With Left Sidebar"
+msgstr ""
+
+#: inc/customizer.php:163
+msgid "Single With No Sidebars"
+msgstr ""
+
+#: inc/customizer.php:173
+msgid "Use Excerpts"
+msgstr ""
+
+#: inc/customizer.php:174
+msgid ""
+"Use excerpts for your blog post summaries or uncheck the box to use the "
+"standard Read More tag. NOTE: Some blog styles only use excerpts."
+msgstr ""
+
+#: inc/customizer.php:186
+msgid "Excerpt Size"
+msgstr ""
+
+#: inc/customizer.php:187
+msgid ""
+"You can change the size of your blog summary excerpts with increments of 5 "
+"words."
+msgstr ""
+
+#: inc/customizer.php:202
+msgid "Use FontAwesome 4"
+msgstr ""
+
+#: inc/customizer.php:203
+msgid ""
+"For compatibility reasons when using the new FontAwesome version 4 (turned "
+"off by default). You also have the option to disable both v4 and v5 if you "
+"are using a plugin for Font Awesome."
+msgstr ""
+
+#: inc/customizer.php:214
+msgid "Use FontAwesome 5"
+msgstr ""
+
+#: inc/customizer.php:215
+msgid ""
+"For compatibility reasons when using the new FontAwesome version 5 (turned "
+"on by default), if you find icons are missing or look odd, you can switch to "
+"FontAwesome version 4. You also have the option to disable both v4 and v5 if "
+"you are using a plugin for Font Awesome."
+msgstr ""
+
+#: inc/customizer.php:226
+msgid "Show the Featured Tag"
+msgstr ""
+
+#: inc/customizer.php:227
+msgid "This lets you show the featured tag in the post meta info."
+msgstr ""
+
+#: inc/customizer.php:238
+msgid "Show the Post Format"
+msgstr ""
+
+#: inc/customizer.php:239
+msgid "This lets you show the post format linked tag in the post meta info."
+msgstr ""
+
+#: inc/customizer.php:250
+msgid "Show the Featured Image Captions"
+msgstr ""
+
+#: inc/customizer.php:251
+msgid "This lets you show or hide the post summary featured image caption."
+msgstr ""
+
+#: inc/customizer.php:263
+msgid "Show the Full Post Featured Image"
+msgstr ""
+
+#: inc/customizer.php:264
+msgid "This lets you show the featured image also on the full post view."
+msgstr ""
+
+#: inc/customizer.php:275
+msgid "Show the Full Post Footer Group"
+msgstr ""
+
+#: inc/customizer.php:276
+msgid ""
+"This lets you show or hide the full post footer group that includes the tags "
+"list."
+msgstr ""
+
+#: inc/customizer.php:287
+msgid "Show the Post Navigation"
+msgstr ""
+
+#: inc/customizer.php:288
+msgid ""
+"This lets you show the Next and Previous post navigation on the full post "
+"view."
+msgstr ""
+
+#: inc/customizer.php:299
+msgid "Show the Author Bio Section"
+msgstr ""
+
+#: inc/customizer.php:300
+msgid ""
+"This lets you show the author biography info section on the full article "
+"view."
+msgstr ""
+
+#: inc/customizer.php:312
+msgid "Show the Related Posts Section"
+msgstr ""
+
+#: inc/customizer.php:313
+msgid "This lets you show the related posts section on the full article view."
+msgstr ""
+
+#: inc/customizer.php:325
+msgid "Default Style Blog Thumbnails"
+msgstr ""
+
+#: inc/customizer.php:326
+msgid ""
+"This will create featured images for the blog 1 and 2 styled layouts. Size = "
+"740x400 pixels."
+msgstr ""
+
+#: inc/customizer.php:337
+msgid "List Style Blog Thumbnails"
+msgstr ""
+
+#: inc/customizer.php:338
+msgid ""
+"This will create featured images for the list styled layouts. Size = 440x275 "
+"pixels."
+msgstr ""
+
+#: inc/customizer.php:350
+msgid "Enable Full Post Thumbnail Creation"
+msgstr ""
+
+#: inc/customizer.php:351
+msgid ""
+"When enabled, a custom thumbnail will be created for the full post view. "
+"(Images will be 750x500 pixels."
+msgstr ""
+
+#: inc/customizer.php:362
+msgid "Enable Related Post Thumbnail Creation"
+msgstr ""
+
+#: inc/customizer.php:363
+msgid ""
+"When enabled, a custom thumbnail will be created for the related posts "
+"sections on the full post view. (Images will be 210x150 pixels."
+msgstr ""
+
+#: inc/customizer.php:376
+msgid "Related Posts Displayed From:"
+msgstr ""
+
+#: inc/customizer.php:380
+msgid "Related Posts By Categories"
+msgstr ""
+
+#: inc/customizer.php:381
+msgid "Related Posts By Tags"
+msgstr ""
+
+#: inc/customizer.php:392
+msgid "Enable WooCommerce"
+msgstr ""
+
+#: inc/customizer.php:393
+msgid "This lets you enable WooCommerce support with this theme."
+msgstr ""
+
+#: inc/customizer.php:404
+msgid "Show Featured Sticky Post"
+msgstr ""
+
+#: inc/customizer.php:405
+msgid "This lets you show the featured sticky post on the Blog."
+msgstr ""
+
+#: inc/customizer.php:416
+msgid "Hide Default Sticky Posts"
+msgstr ""
+
+#: inc/customizer.php:417
+msgid ""
+"This lets you hide the standard sticky posts from the blog list of post "
+"summaries."
+msgstr ""
+
+#: inc/customizer.php:429
+msgid "Sticky category"
+msgstr ""
+
+#: inc/customizer.php:430
+msgid ""
+"Choose your category to show a featured (sticky) post on your front page. "
+"Make sure your post has a featured image."
+msgstr ""
+
+#: inc/customizer.php:442
+msgid "Show Image Attachment Page Comments"
+msgstr ""
+
+#: inc/customizer.php:443
+msgid ""
+"If you are using a WP gallery shortcode and want to showcase your images on "
+"the custom attachment page, you can enable or disable comments for images."
+msgstr ""
+
+#: inc/customizer.php:454
+msgid "Your Copyright Name"
+msgstr ""
+
+#: inc/customizer.php:467 inc/customizer.php:522
+msgid "Site Title Colour"
+msgstr ""
+
+#: inc/customizer.php:478
+msgid "Site Tagline Colour"
+msgstr ""
+
+#: inc/customizer.php:490
+msgid "Main Content Area Background"
+msgstr ""
+
+#: inc/customizer.php:500
+msgid "Body Text Colour"
+msgstr ""
+
+#: inc/customizer.php:511
+msgid "Header Background Colour"
+msgstr ""
+
+#: inc/customizer.php:533
+msgid "Site Description Colour"
+msgstr ""
+
+#: inc/customizer.php:545
+msgid "Top Left Section Background"
+msgstr ""
+
+#: inc/customizer.php:556
+msgid "Top Left Section Text"
+msgstr ""
+
+#: inc/customizer.php:567
+msgid "Top Right Section Background"
+msgstr ""
+
+#: inc/customizer.php:578
+msgid "Top Right Section Text"
+msgstr ""
+
+#: inc/customizer.php:590
+msgid "Site Footer Background"
+msgstr ""
+
+#: inc/customizer.php:601
+msgid "Site Footer Text"
+msgstr ""
+
+#: inc/customizer.php:612
+msgid "Link Colour"
+msgstr ""
+
+#: inc/customizer.php:623
+msgid "Link Visited Colour"
+msgstr ""
+
+#: inc/customizer.php:634
+msgid "Link Hover Colour"
+msgstr ""
+
+#: inc/customizer.php:645
+msgid "Read More Button"
+msgstr ""
+
+#: inc/customizer.php:656
+msgid "Read More Label"
+msgstr ""
+
+#: inc/customizer.php:667
+msgid "Post Titles"
+msgstr ""
+
+#: inc/customizer.php:668
+msgid "This is the colour of your post titles."
+msgstr ""
+
+#: inc/customizer.php:679
+msgid "Featured Sticky Post Background"
+msgstr ""
+
+#: inc/customizer.php:680
+msgid "This is background colour for the featured sticky post."
+msgstr ""
+
+#: inc/customizer.php:691
+msgid "Featured Sticky Post Text"
+msgstr ""
+
+#: inc/customizer.php:692
+msgid "This is your featured sticky post content colour."
+msgstr ""
+
+#: inc/customizer.php:704 inc/customizer.php:716
+msgid "Sidebar Widget Titles"
+msgstr ""
+
+#: inc/customizer.php:705
+msgid "This is your widget title colour for the left and right columns."
+msgstr ""
+
+#: inc/customizer.php:717
+msgid "This is your widget title colour that do not have a background to them."
+msgstr ""
+
+#: inc/customizer.php:728
+msgid "Widget Title Background"
+msgstr ""
+
+#: inc/customizer.php:729
+msgid ""
+"This is the background colour for your left and right column widget titles."
+msgstr ""
+
+#: inc/customizer.php:740
+msgid "Bottom Sidebar Widget Text"
+msgstr ""
+
+#: inc/customizer.php:741
+msgid "This is the background colour for your bottom sidebar group."
+msgstr ""
+
+#: inc/customizer.php:751 inc/customizer.php:762
+msgid "Bottom Sidebar Text"
+msgstr ""
+
+#: inc/customizer.php:752
+msgid "This is the colour of your bottom sidebar widget titles."
+msgstr ""
+
+#: inc/customizer.php:763
+msgid ""
+"This is the colour of your bottom sidebar content colour, including widget "
+"titles."
+msgstr ""
+
+#: inc/customizer.php:774
+msgid "Dropcap Letter Colour"
+msgstr ""
+
+#: inc/customizer.php:785
+msgid "Featured Image Caption Background"
+msgstr ""
+
+#: inc/customizer.php:796
+msgid "Featured Image Caption Text"
+msgstr ""
+
+#: inc/customizer.php:807
+msgid "Image Viewer Background"
+msgstr ""
+
+#: inc/customizer.php:818
+msgid "Button Background"
+msgstr ""
+
+#: inc/customizer.php:829
+msgid "Button Hover Background"
+msgstr ""
+
+#: inc/customizer.php:841
+msgid "Button Text"
+msgstr ""
+
+#: inc/customizer.php:852
+msgid "Breadcrumbs Background"
+msgstr ""
+
+#: inc/customizer.php:863
+msgid "Breadcrumbs Text Colour"
+msgstr ""
+
+#: inc/customizer.php:874
+msgid "Top Social Icon Background"
+msgstr ""
+
+#: inc/customizer.php:884
+msgid "Top Social Icon Hover Background"
+msgstr ""
+
+#: inc/customizer.php:894
+msgid "Top Social Icon"
+msgstr ""
+
+#: inc/customizer.php:905
+msgid "Mobile Menu Toggle Background"
+msgstr ""
+
+#: inc/customizer.php:906
+msgid "This is the colour for your toggle button background."
+msgstr ""
+
+#: inc/customizer.php:917 inc/customizer.php:929
+msgid "Mobile Menu Toggle Icon"
+msgstr ""
+
+#: inc/customizer.php:918
+msgid "This is the colour for your toggle button icon."
+msgstr ""
+
+#: inc/customizer.php:930
+msgid "This is the colour for your mobile menu background flyout panel."
+msgstr ""
+
+#: inc/customizer.php:941
+msgid "Mobile Menu Links"
+msgstr ""
+
+#: inc/customizer.php:952
+msgid "Mobile Menu Hover Links"
+msgstr ""
+
+#: inc/customizer.php:963
+msgid "Main Menu Links"
+msgstr ""
+
+#: inc/customizer.php:974
+msgid "Main Menu Hover & Active Colour"
+msgstr ""
+
+#: inc/customizer.php:986
+msgid "Main Menu Submenu Background"
+msgstr ""
+
+#: inc/customizer.php:997
+msgid "Main Menu Submenu Border"
+msgstr ""
+
+#: inc/customizer.php:1008
+msgid "Main Menu Submenu Link Borders"
+msgstr ""
+
+#: inc/customizer.php:1020
+msgid "Text Select Background"
+msgstr ""
+
+#: inc/customizer.php:1030
+msgid "Text Select Text Colour"
+msgstr ""
+
+#: inc/customizer.php:1041
+msgid "Blockquote Border"
+msgstr ""
+
+#: inc/customizer.php:1052
+msgid "Blockquote Background"
+msgstr ""
+
+#: inc/customizer.php:1063
+msgid "Blockquote Text"
+msgstr ""
+
+#: inc/customizer.php:1074
+msgid "Scroll to Top Arrow"
+msgstr ""
+
+#: inc/customizer.php:1086
+msgid "Recent Posts Title Background"
+msgstr ""
+
+#: inc/customizer.php:1097
+msgid "Recent Posts Title"
+msgstr ""
+
+#: inc/customizer.php:1106
+msgid "Slider Options"
+msgstr ""
+
+#: inc/customizer.php:1118
+msgid "Show Slider"
+msgstr ""
+
+#: inc/customizer.php:1119
+msgid ""
+"This lets you enable the Slick Slider - which will display on the front page "
+"of your website."
+msgstr ""
+
+#: inc/customizer.php:1149
+msgid "Choose a category"
+msgstr ""
+
+#: inc/customizer.php:1150
+msgid ""
+"Choose your category to load slides from. Make sure your posts have featured "
+"images and we recommend also that you create a special category just for "
+"featured slide posts."
+msgstr ""
+
+#: inc/customizer.php:1163
+msgid "Limit posts"
+msgstr ""
+
+#: inc/customizer.php:1164
+msgid "This lets you select how many slides to show from 1 to 5 slides."
+msgstr ""
+
+#: inc/customizer.php:1181
+msgid "Show Slider pagination"
+msgstr ""
+
+#: inc/customizer.php:1182
+msgid "This shows the small dot pagination at the bottom of your slides."
+msgstr ""
+
+#: inc/customizer.php:1193
+msgid "Show Slider Navigation"
+msgstr ""
+
+#: inc/customizer.php:1194
+msgid "This shows the Next and Previous arrows for slide navigation."
+msgstr ""
+
+#: inc/customizer.php:1205 inc/customizer.php:1217
+msgid "Enable Slide Autoplay"
+msgstr ""
+
+#: inc/customizer.php:1206 inc/customizer.php:1218
+msgid ""
+"This lets you turn on the autoplay which will rotate through the slides "
+"automatically. Disabling then requires manual navigation."
+msgstr ""
+
+#: inc/customizer.php:1229
+msgid "Autoplay Speed"
+msgstr ""
+
+#: inc/customizer.php:1230
+msgid ""
+"You can change the speed of each slide when using the autoplay setting. "
+"Default is 3000"
+msgstr ""
+
+#: inc/customizer.php:1244
+msgid "Next &amp; Prev Arrows"
+msgstr ""
+
+#: inc/customizer.php:1255
+msgid "Slide Pagination - Dots"
+msgstr ""
+
+#: inc/customizer.php:1266
+msgid "Slide Pagination - Active Dots"
+msgstr ""
+
+#: inc/customizer.php:1277
+msgid "Slide Category"
+msgstr ""
+
+#: inc/customizer.php:1288
+msgid "Slide Title"
+msgstr ""
+
+#: inc/customizer.php:1300
+msgid "Slide Excerpt"
+msgstr ""
+
+#: inc/customizer.php:1311
+msgid "Slide Read More Button"
+msgstr ""
+
+#: inc/customizer.php:1322
+msgid "Slide Read More Label"
+msgstr ""
+
+#: inc/customizer.php:1329
+msgid "Promo Boxes"
+msgstr ""
+
+#: inc/customizer.php:1340
+msgid "Show the Promo Boxes Section"
+msgstr ""
+
+#: inc/customizer.php:1341
+msgid "Check this box to show the image boxes section."
+msgstr ""
+
+#: inc/customizer.php:1357
+msgid "Promo Box 1 Image"
+msgstr ""
+
+#: inc/customizer.php:1358
+msgid "Choose your first promo box image."
+msgstr ""
+
+#: inc/customizer.php:1363 inc/customizer.php:1368 inc/customizer.php:1392
+#: inc/customizer.php:1397 inc/customizer.php:1420 inc/customizer.php:1425
+msgid "Select Image"
+msgstr ""
+
+#: inc/customizer.php:1364 inc/customizer.php:1393 inc/customizer.php:1421
+msgid "Change Image"
+msgstr ""
+
+#: inc/customizer.php:1365 inc/customizer.php:1394 inc/customizer.php:1422
+msgid "Remove"
+msgstr ""
+
+#: inc/customizer.php:1366 inc/customizer.php:1395 inc/customizer.php:1423
+msgid "Default"
+msgstr ""
+
+#: inc/customizer.php:1367 inc/customizer.php:1396 inc/customizer.php:1424
+msgid "No image selected"
+msgstr ""
+
+#: inc/customizer.php:1369 inc/customizer.php:1398 inc/customizer.php:1426
+msgid "Choose Image"
+msgstr ""
+
+#: inc/customizer.php:1386
+msgid "Promo Box 2 Image"
+msgstr ""
+
+#: inc/customizer.php:1387
+msgid "Choose your second promo box image."
+msgstr ""
+
+#: inc/customizer.php:1414
+msgid "Promo Box 3 Image"
+msgstr ""
+
+#: inc/customizer.php:1415
+msgid "Choose your third promo box image."
+msgstr ""
+
+#: inc/customizer.php:1438
+msgid "Promo Box 1 Title"
+msgstr ""
+
+#: inc/customizer.php:1449
+msgid "Promo Box 2 Title"
+msgstr ""
+
+#: inc/customizer.php:1460
+msgid "Promo Box 3 Title"
+msgstr ""
+
+#: inc/customizer.php:1471
+msgid "Promo Box 1 Button Label"
+msgstr ""
+
+#: inc/customizer.php:1482
+msgid "Promo Box 2 Button Label"
+msgstr ""
+
+#: inc/customizer.php:1493
+msgid "Promo Box 3 Button Label"
+msgstr ""
+
+#: inc/customizer.php:1504
+msgid "Promo Box 1 Link"
+msgstr ""
+
+#: inc/customizer.php:1515
+msgid "Promo Box 2 Link"
+msgstr ""
+
+#: inc/customizer.php:1526
+msgid "Promo Box 3 Link"
+msgstr ""
+
+#: inc/customizer.php:1537
+msgid "Promo Image Widget Colour"
+msgstr ""
+
+#: inc/customizer.php:1548
+msgid "Promo Image Widget Text Colour"
+msgstr ""
+
+#: inc/customizer.php:1559
+msgid "Promo Image Widget Read More"
+msgstr ""
+
+#: inc/customizer.php:1567
+msgid "WooCommerce Options"
+msgstr ""
+
+#: inc/customizer.php:1579
+msgid "Products Per Page"
+msgstr ""
+
+#: inc/customizer.php:1580
+msgid ""
+"Select how many products you want to display per page in increments of 3 up "
+"to 21"
+msgstr ""
+
+#: inc/customizer.php:1596
+msgid "Gallery Thumbnail Columns"
+msgstr ""
+
+#: inc/customizer.php:1597
+msgid ""
+"Select how many gallery thumbnail columns you want to display from 1 to 5."
+msgstr ""
+
+#: inc/customizer.php:1611
+msgid "WooCommerce Table Heading Background"
+msgstr ""
+
+#: inc/customizer.php:1622
+msgid "WooCommerce Table Heading Text"
+msgstr ""
+
+#: inc/customizer.php:1633
+msgid "Rating Stars"
+msgstr ""
+
+#: inc/customizer.php:1644
+msgid "Onsale Label Background"
+msgstr ""
+
+#: inc/customizer.php:1655
+msgid "Onsale Label Text"
+msgstr ""
+
+#: inc/customizer.php:1666
+msgid "WooCommerce Tab Colour"
+msgstr ""
+
+#: inc/customizer.php:1676
+msgid "WooCommerce Active Tab"
+msgstr ""
+
+#: inc/customizer.php:1687
+msgid "WooCommerce Product Price"
+msgstr ""
+
+#: inc/customizer.php:1697
+msgid "Shop Table Header Background"
+msgstr ""
+
+#: inc/customizer.php:1708
+msgid "Shop Table Header Text"
+msgstr ""
+
+#: inc/customizer.php:1719
+msgid "My Account Buttons"
+msgstr ""
+
+#: inc/customizer.php:1730
+msgid "My Account Buttons Text"
+msgstr ""
+
+#: inc/customizer.php:1741
+msgid "My Account Hover Buttons"
+msgstr ""
+
+#: inc/customizer.php:1752
+msgid "My Account Buttons Hover Text"
+msgstr ""
+
+#: inc/related-posts.php:12
+msgid "You may also like these posts:"
+msgstr ""
+
+#: inc/related-posts.php:25
+msgid "related-post"
+msgstr ""
+
+#: inc/sidebars.php:9
+msgid "Blog Right Sidebar"
+msgstr ""
+
+#: inc/sidebars.php:11
+msgid "Right sidebar for the blog"
+msgstr ""
+
+#: inc/sidebars.php:18
+msgid "Blog Left Sidebar"
+msgstr ""
+
+#: inc/sidebars.php:20
+msgid "Left sidebar for the blog"
+msgstr ""
+
+#: inc/sidebars.php:27
+msgid "Page Right Sidebar"
+msgstr ""
+
+#: inc/sidebars.php:29
+msgid "Right sidebar for pages"
+msgstr ""
+
+#: inc/sidebars.php:36
+msgid "Page Left Sidebar"
+msgstr ""
+
+#: inc/sidebars.php:38
+msgid "Left sidebar for pages"
+msgstr ""
+
+#: inc/sidebars.php:45
+msgid "Banner"
+msgstr ""
+
+#: inc/sidebars.php:47
+msgid "For Images and Sliders."
+msgstr ""
+
+#: inc/sidebars.php:54
+msgid "Post Banner"
+msgstr ""
+
+#: inc/sidebars.php:56
+msgid ""
+"For Images and Sliders, but ONLY shows up on posts and pages that use the "
+"left and/or right sidebar columns."
+msgstr ""
+
+#: inc/sidebars.php:63
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/sidebars.php:65
+msgid ""
+"For adding breadcrumb navigation if using a plugin, or you can add content "
+"here."
+msgstr ""
+
+#: inc/sidebars.php:73
+msgid "Content Top 1"
+msgstr ""
+
+#: inc/sidebars.php:75
+msgid "Content Top 1 position"
+msgstr ""
+
+#: inc/sidebars.php:82
+msgid "Content Top 2"
+msgstr ""
+
+#: inc/sidebars.php:84
+msgid "Content Top 2 position"
+msgstr ""
+
+#: inc/sidebars.php:91
+msgid "Content Top 3"
+msgstr ""
+
+#: inc/sidebars.php:93
+msgid "Content Top 3 position"
+msgstr ""
+
+#: inc/sidebars.php:100
+msgid "Content Top 4"
+msgstr ""
+
+#: inc/sidebars.php:102
+msgid "Content Top 4 position"
+msgstr ""
+
+#: inc/sidebars.php:109
+msgid "Content Bottom 1"
+msgstr ""
+
+#: inc/sidebars.php:111
+msgid "Content Bottom 1 position"
+msgstr ""
+
+#: inc/sidebars.php:118
+msgid "Content Bottom 2"
+msgstr ""
+
+#: inc/sidebars.php:120
+msgid "Content Bottom 2 position"
+msgstr ""
+
+#: inc/sidebars.php:127
+msgid "Content Bottom 3"
+msgstr ""
+
+#: inc/sidebars.php:129
+msgid "Content Bottom 3 position"
+msgstr ""
+
+#: inc/sidebars.php:136
+msgid "Content Bottom 4"
+msgstr ""
+
+#: inc/sidebars.php:138
+msgid "Content Bottom 4 position"
+msgstr ""
+
+#: inc/sidebars.php:146
+msgid "Bottom 1"
+msgstr ""
+
+#: inc/sidebars.php:148
+msgid "Bottom 1 position"
+msgstr ""
+
+#: inc/sidebars.php:155
+msgid "Bottom 2"
+msgstr ""
+
+#: inc/sidebars.php:157
+msgid "Bottom 2 position"
+msgstr ""
+
+#: inc/sidebars.php:164
+msgid "Bottom 3"
+msgstr ""
+
+#: inc/sidebars.php:166
+msgid "Bottom 3 position"
+msgstr ""
+
+#: inc/sidebars.php:173
+msgid "Bottom 4"
+msgstr ""
+
+#: inc/sidebars.php:175
+msgid "Bottom 4 position"
+msgstr ""
+
+#: inc/sidebars.php:184
+msgid "Footer position"
+msgstr ""
+
+#: inc/sidebars.php:191
+msgid "Featured Bottom"
+msgstr ""
+
+#: inc/sidebars.php:193
+msgid ""
+"This is a single sidebar position that stretches full width of your window "
+"just above the bottom sidebar group."
+msgstr ""
+
+#: inc/sidebars.php:200
+msgid "Call To Action"
+msgstr ""
+
+#: inc/sidebars.php:202
+msgid "For call-to-action content like newsletter sign-up, promos, etc."
+msgstr ""
+
+#: inc/template-functions.php:39
+msgid "Read More"
+msgstr ""
+
+#: inc/template-functions.php:45
+msgid "&hellip;Read More"
+msgstr ""
+
+#: inc/template-tags.php:28
+msgid "Featured"
+msgstr ""
+
+#. translators: %s: post date
+#: inc/template-tags.php:44 inc/template-tags.php:127
+#, php-format
+msgid "<span class=\"screen-reader-text\">Posted on</span> %s"
+msgstr ""
+
+#. translators: %s: post title
+#: inc/template-tags.php:57 inc/template-tags.php:147
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:75 inc/template-tags.php:165
+#: template-parts/page/content-page.php:51
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#. translators: %s: post author.
+#: inc/template-tags.php:121
+#, php-format
+msgctxt "post author"
+msgid "By %s"
+msgstr ""
+
+#: inc/template-tags.php:131
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of categories.
+#: inc/template-tags.php:134
+#, php-format
+msgid "In %1$s"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:204
+#, php-format
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: inc/theme-info/postmagazine-info-class-about.php:168
+msgid "Dismiss this notice."
+msgstr ""
+
+#: inc/theme-info/postmagazine-info-class-about.php:517
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+
+#: inc/theme-info/postmagazine-info-class-about.php:521
+msgid "You do not have the necessary permission to perform this action."
+msgstr ""
+
+#. translators: %1$s: menu title under appearance
+#. translators: %1$s: page name
+#: inc/theme-info/postmagazine-info.php:23
+#: inc/theme-info/postmagazine-info.php:25
+#, php-format
+msgid "About %1$s"
+msgstr ""
+
+#. translators: %1$s: welcome title
+#: inc/theme-info/postmagazine-info.php:27
+#, php-format
+msgid "Welcome to %1$s - v"
+msgstr ""
+
+#. translators: %1$s: welcome content
+#: inc/theme-info/postmagazine-info.php:29
+#, php-format
+msgid ""
+"%1$s is a beautifully designed blog magazine theme that is perfect for "
+"creating a lifestyle, health, food, and fashion based sites. Packed with "
+"features from being WooCommerce ready, unlimited colours, having 5 blog "
+"styled layouts, a featured post slider, 21 widget positions, and a whole lot "
+"more."
+msgstr ""
+
+#: inc/theme-info/postmagazine-info.php:39
+#, php-format
+msgid "Get the Pro for 25% off)"
+msgstr ""
+
+#: inc/theme-info/postmagazine-info.php:40
+#, php-format
+msgid ""
+"Save 25% off the PostMagazine Pro regular price of $59. Offer EXPIRES April "
+"30, 2018. Use this coupon at checkout."
+msgstr ""
+
+#: inc/theme-info/postmagazine-info.php:42
+msgid "Upgrade &amp; Save 25%"
+msgstr ""
+
+#: inc/theme-info/postmagazine-info.php:46
+msgid "Getting Started"
+msgstr ""
+
+#: inc/theme-info/postmagazine-info.php:47
+#: inc/theme-info/postmagazine-info.php:261
+msgid "Support"
+msgstr ""
+
+#: inc/theme-info/postmagazine-info.php:48
+#: inc/theme-info/postmagazine-info.php:87
+msgid "Changelog"
+msgstr ""
+
+#: inc/theme-info/postmagazine-info.php:49
+msgid "Free VS PRO"
+msgstr ""
+
+#: inc/theme-info/postmagazine-info.php:54
+msgid "Setup Documentation"
+msgstr ""
+
+#: inc/theme-info/postmagazine-info.php:55
+msgid ""
+"To help you get started with the initial setup of this theme and to learn "
+"about the various features, you can check out detailed setup documentation."
+msgstr ""
+
+#. translators: %1$s: theme name
+#: inc/theme-info/postmagazine-info.php:57
+#, php-format
+msgid "View %1$s Tutorials"
+msgstr ""
+
+#: inc/theme-info/postmagazine-info.php:64
+#: inc/theme-info/postmagazine-info.php:66
+msgid "Go to Customizer"
+msgstr ""
+
+#: inc/theme-info/postmagazine-info.php:65
+msgid ""
+"Using the WordPress Customizer you can easily customize every aspect of the "
+"theme."
+msgstr ""
+
+#: inc/theme-info/postmagazine-info.php:74
+msgid "Using a Child Theme"
+msgstr ""
+
+#: inc/theme-info/postmagazine-info.php:75
+msgid ""
+"If you plan to customize this theme, I recommend looking into using a child "
+"theme. To learn more about child themes and why it's important to use one, "
+"check out the WordPress documentation."
+msgstr ""
+
+#: inc/theme-info/postmagazine-info.php:76
+msgid "Child Themes"
+msgstr ""
+
+#: inc/theme-info/postmagazine-info.php:88
+msgid ""
+"I generally recommend you always read the CHANGELOG before updating so that "
+"you can see what was fixed, changed, deleted, or added to the theme."
+msgstr ""
+
+#: inc/theme-info/postmagazine-info.php:98
+msgid "Free Support"
+msgstr ""
+
+#: inc/theme-info/postmagazine-info.php:100
+msgid ""
+"Get free support by visiting the theme support forum and I will do my very "
+"best to answer your questions should you find yourself in need of help."
+msgstr ""
+
+#: inc/theme-info/postmagazine-info.php:101
+msgid "Get Free Support"
+msgstr ""
+
+#: inc/theme-info/postmagazine-info.php:107
+msgid "Common Problems"
+msgstr ""
+
+#: inc/theme-info/postmagazine-info.php:109
+msgid ""
+"For quick answers to the most common problems, you can check out the "
+"tutorials which can provide instant solutions and answers."
+msgstr ""
+
+#: inc/theme-info/postmagazine-info.php:110
+msgid "Get Answers"
+msgstr ""
+
+#: inc/theme-info/postmagazine-info.php:122
+msgid "Get PostMagazine Pro"
+msgstr ""
+
+#: inc/theme-info/postmagazine-info.php:125
+msgid "Mobile Friendly"
+msgstr ""
+
+#: inc/theme-info/postmagazine-info.php:134
+msgid "Unlimited Colours"
+msgstr ""
+
+#: inc/theme-info/postmagazine-info.php:143
+msgid "Boxed Layouts"
+msgstr ""
+
+#: inc/theme-info/postmagazine-info.php:152
+msgid "Post Slider"
+msgstr ""
+
+#: inc/theme-info/postmagazine-info.php:161
+msgid "Background Image"
+msgstr ""
+
+#: inc/theme-info/postmagazine-info.php:170
+msgid "Built-In Social Buttons"
+msgstr ""
+
+#: inc/theme-info/postmagazine-info.php:179
+msgid "Show or Hide Elements"
+msgstr ""
+
+#: inc/theme-info/postmagazine-info.php:188
+msgid "Custom Error Page"
+msgstr ""
+
+#: inc/theme-info/postmagazine-info.php:198
+msgid "Blog Styles"
+msgstr ""
+
+#: inc/theme-info/postmagazine-info.php:207
+msgid "Sidebar Positions"
+msgstr ""
+
+#: inc/theme-info/postmagazine-info.php:216
+msgid "Page Templates"
+msgstr ""
+
+#: inc/theme-info/postmagazine-info.php:225
+msgid "Font Awesome (New version 5) Icons"
+msgstr ""
+
+#: inc/theme-info/postmagazine-info.php:234
+msgid "Recent Posts Widget with Thumbnails"
+msgstr ""
+
+#: inc/theme-info/postmagazine-info.php:243
+msgid "Related Posts with Thumbnails"
+msgstr ""
+
+#: inc/theme-info/postmagazine-info.php:270
+msgid "Header Options"
+msgstr ""
+
+#: inc/theme-info/postmagazine-info.php:271
+msgid "4 Header styles for the Pro version"
+msgstr ""
+
+#: inc/theme-info/postmagazine-info.php:279
+msgid "Custom Blog Title &amp; Introduction"
+msgstr ""
+
+#: inc/theme-info/postmagazine-info.php:280
+msgid ""
+"WordPress does not have this, but we have added a customizable blog title "
+"and intro option."
+msgstr ""
+
+#: inc/theme-info/postmagazine-info.php:288
+msgid "Blog Thumbnail Creation"
+msgstr ""
+
+#: inc/theme-info/postmagazine-info.php:289
+msgid "Automatically have post featured images cropped when uploading."
+msgstr ""
+
+#: inc/theme-info/postmagazine-info.php:297
+msgid "Featured Image Captions for Posts"
+msgstr ""
+
+#: inc/theme-info/postmagazine-info.php:298
+msgid "Enhance your post featured images with captions"
+msgstr ""
+
+#: inc/theme-info/postmagazine-info.php:306
+msgid "Post Formats"
+msgstr ""
+
+#: inc/theme-info/postmagazine-info.php:307
+msgid ""
+"Post formats include image, gallery, aside, video, quote, link, audio...."
+"posted with a linked label."
+msgstr ""
+
+#: inc/theme-info/postmagazine-info.php:316
+msgid "Custom Header Images"
+msgstr ""
+
+#: inc/theme-info/postmagazine-info.php:317
+msgid ""
+"One of the header styles, this lets you use the WordPress custom image "
+"header feature."
+msgstr ""
+
+#: inc/theme-info/postmagazine-info.php:325
+msgid "Add Google Fonts"
+msgstr ""
+
+#: inc/theme-info/postmagazine-info.php:326
+msgid "Add up to 2 more Google Fonts."
+msgstr ""
+
+#: inc/theme-info/postmagazine-info.php:334
+msgid "Typography Options"
+msgstr ""
+
+#: inc/theme-info/postmagazine-info.php:335
+msgid "Change the font for your main text and headings, and more."
+msgstr ""
+
+#: inc/theme-info/postmagazine-info.php:343
+msgid "Customized Archive Titles"
+msgstr ""
+
+#: inc/theme-info/postmagazine-info.php:344
+msgid ""
+"No more archive titles like Category: Your Category Name. Now it you get the "
+"Category: removed."
+msgstr ""
+
+#: inc/theme-info/postmagazine-info.php:353
+msgid "Featured Sticky Post"
+msgstr ""
+
+#: inc/theme-info/postmagazine-info.php:354
+msgid "Make your featured post stand out with special style."
+msgstr ""
+
+#: inc/theme-info/postmagazine-info.php:363
+msgid "Custom Promo Image Widget"
+msgstr ""
+
+#: inc/theme-info/postmagazine-info.php:364
+msgid "Upload images and set a visual caption with a Read More button link."
+msgstr ""
+
+#: inc/theme-info/postmagazine-info.php:373
+msgid "Advertising Banner Widgets"
+msgstr ""
+
+#: inc/theme-info/postmagazine-info.php:374
+msgid "Special advertising widgets based on industry standard banner sizes."
+msgstr ""
+
+#: inc/widgets/class-postmagazine-recent-posts-widget.php:23
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/widgets/class-postmagazine-recent-posts-widget.php:29
+msgid "PM: Recent Posts"
+msgstr ""
+
+#: inc/widgets/class-postmagazine-recent-posts-widget.php:31
+msgid ""
+"A widget that displays your recent posts from all categories or a category "
+"with thumbnails."
+msgstr ""
+
+#: inc/widgets/class-postmagazine-recent-posts-widget.php:72
+msgid "No Image"
+msgstr ""
+
+#: inc/widgets/class-postmagazine-recent-posts-widget.php:127
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/class-postmagazine-recent-posts-widget.php:131
+msgid "Number of posts to show:"
+msgstr ""
+
+#: inc/woocommerce.php:233
+msgid "View your shopping cart"
+msgstr ""
+
+#. translators: number of items in the mini cart.
+#: inc/woocommerce.php:237
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: %s: search query.
+#: search.php:21
+#, php-format
+msgid "Search Results for %s"
+msgstr ""
+
+#: searchform.php:9
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:10
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr ""
+
+#: searchform.php:11
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#. translators: %s: Name of current post
+#: template-parts/content.php:37 template-parts/layouts/blog-default.php:85
+#: template-parts/post/content.php:64
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: template-parts/content.php:48 template-parts/layouts/blog-default.php:91
+#: template-parts/layouts/blog-list.php:76
+#: template-parts/page/content-page.php:38
+#: template-parts/post/content-single.php:49 template-parts/post/content.php:70
+#: template-parts/post/featured-post.php:43
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/header/featured-slider.php:95
+msgid "read more"
+msgstr ""
+
+#: template-parts/navigation/navigation-post.php:8
+msgid "Next Post"
+msgstr ""
+
+#: template-parts/navigation/navigation-post.php:9
+msgid "Next post:"
+msgstr ""
+
+#: template-parts/navigation/navigation-post.php:11
+msgid "Previous Post"
+msgstr ""
+
+#: template-parts/navigation/navigation-post.php:12
+msgid "Previous post:"
+msgstr ""
+
+#: template-parts/navigation/navigation-social.php:10
+msgid "Social Menu"
+msgstr ""
+
+#: template-parts/post/content-none.php:11
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: %1$s: Link to post editor
+#: template-parts/post/content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/post/content-none.php:23
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "PostMagazine"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://www.bloggingthemestyles.com/free-wordpress-themes/postmagazine"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"PostMagazine is a beautifully designed blog magazine theme that is perfect "
+"for creating a lifestyle, health, food, and fashion based sites. Packed with "
+"features from being WooCommerce ready, unlimited colours, having 5 blog "
+"styled layouts, a featured post slider, 21 widget positions, RTL support, "
+"and a whole lot more. Be sure to read more About PostMagazine under the "
+"Appearance admin menu."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Blogging Theme Styles"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.bloggingthemestyles.com"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Left &amp; Right Column"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Left Column"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Page Builder"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Right Column"
+msgstr ""
