@@ -1,0 +1,44 @@
+version: '3'
+services:
+  cdn:
+    image: svlentink/mywebsite
+    volumes:
+      - ~/.sekretoj/sslcerts:/sslcerts:ro
+      - /tmp/.well-known:/tmp/.well-known:ro # hub.docker.com/r/svlentink/letsencrypt
+      - ~/.sekretoj/wordpress:/authdir:ro
+      - ~/wordpress-backup/nginx-fpm.conf:/etc/nginx/conf.d/wordpress.conf:ro
+      - ~/wordpress-backup:/var/php
+    ports:
+      - "80:80"
+      - "443:443"
+
+  php:
+    image: wordpress:fpm-alpine
+    env_file:
+      - ~/.sekretoj/wordpress/.db
+    volumes:
+      - ~/wordpress-backup:/var/php
+    #command: ["php-fpm","-d","cgi.fix_pathinfo=0","--allow-to-run-as-root","--nodaemonize"]
+    entrypoint: ["php-fpm"]
+    depends_on:
+      - wpdb
+
+  ssl:
+    image: svlentink/letsencrypt
+    volumes:
+      - /tmp:/challenge
+      - ~/sslcerts:/pemfiles
+    environment:
+      EMAIL: ssl@lent.ink
+    command: lisanne.lent.ink juflisanne.nl
+
+  wpdb:
+    image: mariadb
+    env_file:
+      - ~/.sekretoj/wordpress/.db
+    volumes:
+      - ~/wordpress-backup/dbdir:/var/lib/mysql
+    environment:
+      MYSQL_DATABASE: wordpress
+      MYSQL_USER: wordpress
+
