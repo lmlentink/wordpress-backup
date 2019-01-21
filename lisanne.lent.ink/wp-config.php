@@ -6,7 +6,8 @@ define('DB_HOST', 'wpdb:3306'); #getenv('WORDPRESS_DB_HOST'));
 
 $table_prefix = 'wp_li_';
 $_SERVER['HTTPS'] = 'on';
-define('WP_HOME','https://lisanne.lent.ink');
-define('WP_SITEURL','https://lisanne.lent.ink');
+define('WP_HOME','https://lisanne.lent.ink/');
+define('WP_SITEURL','https://lisanne.lent.ink/');
 #define( 'WP_DEBUG', true );
 require_once(ABSPATH . 'wp-settings.php');
+
