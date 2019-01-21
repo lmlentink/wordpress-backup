@@ -8,6 +8,8 @@ $table_prefix = 'wp_li_';
 $_SERVER['HTTPS'] = 'on';
 define('WP_HOME','https://lisanne.lent.ink/');
 define('WP_SITEURL','https://lisanne.lent.ink/');
-#define( 'WP_DEBUG', true );
+#define('WP_DEBUG', true);
+#define('WP_DEBUG_LOG', true);
+#define('WP_DEBUG_DISPLAY', true);
 require_once(ABSPATH . 'wp-settings.php');
 
