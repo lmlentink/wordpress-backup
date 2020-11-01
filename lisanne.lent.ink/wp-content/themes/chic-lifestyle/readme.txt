@@ -29,6 +29,15 @@ Chic Lifestyle is distributed under the terms of the GNU GPL
 
 	Tested up to: 4.9.4
 
+				= Version 1.1.0=
+
+				Release Date: May 18, 2020
+
+				i)   Removed Demo Import
+
+
+
+
 				= Version 1.0.9=
 
 				Release Date: July 24, 2018

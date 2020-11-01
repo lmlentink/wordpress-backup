@@ -194,13 +194,6 @@ if ( ! class_exists( 'Chic_Lifestyle_Customize' ) ) {
 	require get_template_directory() . '/trt-customize-pro/chic-lifestyle/class-customize.php';
 }
 
-if ( is_admin() ) {
-
-	// Load demo.
-	require_once trailingslashit( get_stylesheet_directory() ) . 'inc/demo/class-demo.php';
-	require_once trailingslashit( get_stylesheet_directory() ) . 'inc/demo/demo.php';
-}
-
 
 
 /**

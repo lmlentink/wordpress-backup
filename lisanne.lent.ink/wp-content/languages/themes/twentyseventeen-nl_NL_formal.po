@@ -7,7 +7,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: GlotPress/2.4.0-alpha\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
 "Language: nl\n"
 "Project-Id-Version: Themes - Twenty Seventeen\n"
 
@@ -21,7 +21,7 @@ msgctxt "submit button"
 msgid "Search"
 msgstr "Zoeken"
 
-#: single.php:34 comments.php:72
+#: comments.php:72 single.php:34
 msgid "Next"
 msgstr "Volgende"
 
@@ -38,19 +38,20 @@ msgctxt "label"
 msgid "Search for:"
 msgstr "Zoeken naar:"
 
-#: archive.php:49 search.php:46 index.php:53
+#: archive.php:50 index.php:54 search.php:51
 msgid "Next page"
 msgstr "Volgende pagina"
 
-#: archive.php:48 search.php:45 index.php:52
+#: archive.php:49 index.php:53 search.php:50
 msgid "Previous page"
 msgstr "Vorige pagina"
 
-#: template-parts/page/content-page.php:26
-#: template-parts/post/content-audio.php:91 template-parts/post/content.php:64
 #: template-parts/post/content-gallery.php:78
 #: template-parts/post/content-video.php:90
 #: template-parts/post/content-image.php:68
+#: template-parts/post/content-audio.php:91 template-parts/post/content.php:64
+#: template-parts/page/content-page.php:26
+#: template-parts/page/content-front-page.php:48
 msgid "Pages:"
 msgstr "Pagina&#39;s:"
 
